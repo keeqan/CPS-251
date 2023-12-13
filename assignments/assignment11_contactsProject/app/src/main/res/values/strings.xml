@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">contactsProject</string>
+    <string name="Add">add</string>
+    <string name="Find">find</string>
+    <string name="Up">up</string>
+    <string name="Down">down</string>
+    <string name="enter_number">enter_number</string>
+    <string name="enter_name">enter_name\n</string>
+    <string name="delete">delete</string>
+</resources>
